@@ -17,17 +17,3 @@
 <a href="https://github.com/luokangyuan">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luokangyuan&layout=compact&theme=radical" />
 </a>
-
-<a href="https://github.com/luokangyuan">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luokangyuan&repo=ghost-theme-mj&theme=radical" />
-</a>    
-<a href="https://github.com/luokangyuan">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luokangyuan&repo=typora-theme-chineseStyle&theme=radical" />
-</a>
-<a href="https://github.com/luokangyuan">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luokangyuan&repo=StudyNote2&theme=radical" />
-</a>
-
-<a href="https://github.com/luokangyuan">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luokangyuan&repo=StudyNote&theme=radical" />
-</a>
