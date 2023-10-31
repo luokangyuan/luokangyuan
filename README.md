@@ -26,7 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luokangyuan&show_icons=true&locale=en&layout=compact" alt="luokangyuan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luokangyuan&show_icons=true&locale=en" alt="luokangyuan" /></p>
-
-<a href="https://github.com/luokangyuan">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=luokangyuan&show_icons=true&include_all_commits=true&theme=radical&hide=contribs" alt="Anurag's github stats" />
-</a>
